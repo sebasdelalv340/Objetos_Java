@@ -30,6 +30,5 @@ public class Ej04 {
                 System.out.println("Entrada inválida. Inténtelo de nuevo.");
             }
         }
-        scanner.close();
     }
 }
